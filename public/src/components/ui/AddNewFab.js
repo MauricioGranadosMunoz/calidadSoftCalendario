@@ -13,7 +13,7 @@ export const AddNewFab = () => {
 
     return (
         <button
-            className="btn btn-primary fab"
+            className="btn btn-primary fab favicon-cta-class"
             id='favicon-cta'
             onClick={ handleClickNew }
         >
